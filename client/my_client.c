@@ -1,13 +1,3 @@
-/*
-2018  ©  GEORGE MANGIOROS/ BILL TSAKIRIS
-mg.geomag@gmail.com
-vatsakiris@gmail.com
-ALL RIGHTS RESERVED
-THIS CODE IS FOR EDUCATIONAL USE
-FOR COMMERCIAL USE REQUEST LICENCE FROM THE AUTHORS
-
-    
- */
 #include<stdio.h> //printf
 #include<string.h>    //strlen
 #include<sys/socket.h>    //socket
