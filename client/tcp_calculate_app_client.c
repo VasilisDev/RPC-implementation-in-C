@@ -1,13 +1,3 @@
-/*
-2018  ©  GEORGE MANGIOROS/ BILL TSAKIRIS
-mg.geomag@gmail.com
-vatsakiris@gmail.com
-ALL RIGHTS RESERVED
-THIS CODE IS FOR EDUCATIONAL USE
-FOR COMMERCIAL USE REQUEST LICENCE FROM THE AUTHORS
-
-    
- */
 #include "tcp_calculate_app.h"
 #include<stdio.h>
 #include<string.h>    //strlen
