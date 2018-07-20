@@ -6,4 +6,6 @@ Follow the bellow commands to Run the app:
 2 Compile the RPC client-TCP server :  gcc -o TCPserverRPCclient tcp_calculate_app_client.c tcp_calculate_app_clnt.c tcp_calculate_app_xdr.c -lpthread -lnsl
 3 Compile the RPC server:  gcc -o RPCserver tcp_calculate_app_server.c  tcp_calculate_app_svc.c tcp_calculate_app_xdr.c -lpthread -lnsl
 
-That's it you are ready to choose the mathematical expression tha yoy the server calculates.
+That's it!You are ready to choose the mathematical expression that you want the server calculates.
+
+
