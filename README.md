@@ -12,7 +12,7 @@ An application in C who calculate 2 mathematical expressions and find the minimu
  After the compilation,run the RPC server,RPC client-TCP server and TCP-client:
 ```
 1. Run the RPC server: 
- ./RPCserver
+    ./RPCserver
 2. Run the RPC client-TCP server:
    ./TCPserverRPCclient <port>
 3. Run the TCP-client :
