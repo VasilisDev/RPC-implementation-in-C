@@ -1,5 +1,5 @@
 # RPC-implementation-in-C
-An application in C who calculate 2 mathematical expressions and find the minimum and maximum value in an array.It uses RPC and TCP/IP protocols for the communication and a stream of Sockets for security purposes.The server is concurrent server and he can serve multiple clients at the same time.
+<p>An application in C who calculate 2 mathematical expressions and find the minimum and maximum value in an array.It uses RPC and TCP/IP protocols for the communication and a stream of Sockets for security purposes.The server is concurrent server and he can serve multiple clients at the same time.</p>
 Follow the bellow commands to Run the app:
 ```
 1. Compile the TCP-client side : gcc my_client.c -pthread -o myclient 
