@@ -23,5 +23,5 @@ An application in C who calculate 2 mathematical expressions and find the minimu
 
 After a successful running of all the above object files, you will see a menu which encourage you to choose one of the three expressions that mentioned before.
 
-That's it!
+<h1>Screenshots</h1>
 
