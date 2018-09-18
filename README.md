@@ -15,14 +15,21 @@ An application in C who calculate 2 mathematical expressions and find the minimu
   $ gcc -o RPCserver tcp_calculate_app_server.c  tcp_calculate_app_svc.c tcp_calculate_app_xdr.c -lpthread -lnsl
 ```
  After the compilation,run the RPC server,RPC client-TCP server and TCP-client:
-```
+ 
 1. Run the RPC server: 
+```
    $ ./RPCserver
+```
 2. Run the RPC client-TCP server:
+```
    $ ./TCPserverRPCclient <port>
+```
 3. Run the TCP-client :
+```
    $ ./myclient localhost <port>
+ ```
 4. For multiple clients open more terminals in client's directory and hit:
+```
    $ ./myclient localhost <port>
   ```
 
