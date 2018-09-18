@@ -24,4 +24,30 @@ An application in C who calculate 2 mathematical expressions and find the minimu
 After a successful running of all the above object files, you will see a menu which encourage you to choose one of the three expressions that mentioned before.
 
 <h1>Screenshots</h1>
-
+<dl>
+  
+<dt>Find the minimun and the maximux of the vector<dt>
+  <dd><p align="center">
+   <img src="screenshots/1.jpg" >
+   </p>
+  <dd>
+    
+ <dt>Find the average of the vector</dt>
+  <dd><p align="center">
+   <img src="screenshots/2.jpg" >
+   </p>
+  </dd>
+  
+<dt>Calculate r*X expression, r is a number and X is the vector</dt>
+<dd><p align="center">
+  <img src="screenshots/3.jpg" >
+  </p>
+ <dd>
+    
+<dt>Concurrent TcpServer-RpcClient</dt>
+ <dd><p align="center">
+  <img src="screenshots/4.jpg" >
+  </p>
+ <dd> 
+  
+  </dl>
